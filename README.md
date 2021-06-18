@@ -1,8 +1,9 @@
 # Taxi Service
- The goal of this project is to create a model of a taxi service. The project implements driver authentication with different functionality:
- - driver can register, login, 
- - add himself to different cars, 
- - view all drivers
+ The goal of this project is to create a simple taxi service. The project implements driver authentication with different functionality:
+ - To use all features you need to create new driver and authenticate
+ - Driver can add himself to different cars 
+ - View all drivers
+ - All of the remaining functionality you can find by starting the app
 
 ## Implementation details and technologies
 Project based on 3-layer architecture:
